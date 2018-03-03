@@ -1,9 +1,10 @@
 # Provinces-of-Thailand-Th-En
 
-This's file " .sql " of:
+This's file ".sql" (SQL script for MySQL) of:
 - basic data, based 77 provinces of Thailand.
 - created & reviewed on 2018-02-20
 - support 2 language. (Thailand / English)
+- data about: geo, province, district, subdistrict, zipcode
 - tables: 
 1. basic_data_tbl_geo
 2. basic_data_tbl_provinces
